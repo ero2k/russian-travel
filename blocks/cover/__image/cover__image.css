@@ -1,0 +1,8 @@
+.cover__image {
+    max-width: 100%;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    z-index: 90;
+    opacity: 0.3;
+}

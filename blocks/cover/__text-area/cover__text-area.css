@@ -1,0 +1,13 @@
+.cover__text-area {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-self: center;
+    justify-self: center;
+}
+
+.cover__text-area:hover+.cover__overlay {
+    opacity: 0.8;
+}

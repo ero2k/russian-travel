@@ -1,0 +1,15 @@
+.max-width {
+    max-width: calc(928px + 256 * (100vw - 1024px) / (1280 - 1024));
+}
+
+@media screen and (max-width: 1024px) {
+    .max-width {
+        max-width: calc(720px + 208 * (100vw - 768px) / (1024 - 768));
+    }
+}
+
+@media all and (max-width: 768px) {
+    .max-width {
+        max-width: calc(288px + 432 * (100vw - 320px) / (768 - 320));
+    }
+}

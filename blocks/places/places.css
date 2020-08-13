@@ -1,0 +1,14 @@
+@import url(./__card/place__card.css);
+@import url(./__image/place__image.css);
+@import url(./__link/place__link.css);
+@import url(./__paragraph/place__paragraph.css);
+@import url(./__title/place__title.css);
+@import url(./__url-heading/place__url-heading.css);
+@import url(./__website/place__website.css);
+
+.places {
+    margin: 0 auto 92px auto;
+    display: grid;
+    justify-content: center;
+    row-gap: 80px
+}
