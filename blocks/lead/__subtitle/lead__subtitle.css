@@ -6,7 +6,7 @@
     max-width: 640px;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 760px) {
     .lead__subtitle {
         font-size: calc(16px + 14 * (100vw - 320px) / (768 - 320));
         line-height: calc(20px + 16 * (100vw - 320px) / (768 - 320));

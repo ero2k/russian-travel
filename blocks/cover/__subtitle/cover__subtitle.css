@@ -10,10 +10,10 @@
     color: #fff;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 760px) {
     .cover__subtitle {
         font-size: 14px;
         line-height: 16px;
-        max-width: 288px;
+        max-width: 270px;
     }
 }

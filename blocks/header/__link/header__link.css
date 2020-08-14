@@ -6,11 +6,11 @@
     margin-left: 18px;
 }
 
-.header__link:first-of-type {
-    text-decoration: underline;
+.header__link:hover {
+    opacity: 0.8;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 760px) {
     .header__link {
         font-size: 18px;
         line-height: 24px;

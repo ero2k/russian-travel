@@ -2,7 +2,7 @@
     margin-right: 18px;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 760px) {
     .footer__item {
         margin: 0 0 32px 0;
     }

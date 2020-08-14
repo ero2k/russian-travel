@@ -4,6 +4,12 @@
 
 @media all and (max-width: 768px) {
     .logo {
+        width: 172px;
+    }
+}
+
+@media all and (max-width: 350px) {
+    .logo {
         width: 142px;
     }
 }

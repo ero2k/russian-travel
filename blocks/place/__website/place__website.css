@@ -4,7 +4,7 @@
     justify-content: flex-end;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 760px) {
     .place__website {
         display: none;
     }

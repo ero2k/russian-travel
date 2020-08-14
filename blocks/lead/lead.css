@@ -3,6 +3,7 @@
 @import url(./__road/lead__road.css);
 @import url(./__subtitle/lead__subtitle.css);
 @import url(./__title/lead__title.css);
+@import url(./__block/lead__block.css);
 
 .lead {
     max-width: 984px;
