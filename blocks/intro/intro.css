@@ -37,6 +37,12 @@
     }
 }
 
+@media screen and (max-width: 768px) {
+    .intro {
+        margin-bottom: 88px;
+    }
+}
+
 @media all and (max-width: 560px) {
 
     .intro {

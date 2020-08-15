@@ -4,3 +4,10 @@
     justify-content: center;
     row-gap: 80px
 }
+
+@media all and (max-width: 768px) {
+
+    .places {
+        margin-bottom: 88px;
+    }
+}

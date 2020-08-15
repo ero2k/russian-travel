@@ -10,3 +10,9 @@
     position: relative;
     padding-bottom: 62.5%;
 }
+
+@media all and (max-width: 768px) {
+    .cover {
+        margin-bottom: 88px;
+    }
+}

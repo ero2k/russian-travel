@@ -15,3 +15,9 @@
         max-width: calc(928px + 56 * (100vw - 1024px) / (1280 - 1024));
     }
 }
+
+@media screen and (max-width: 768px) {
+    .lead {
+        margin-bottom: 88px;
+    }
+}
